@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="github"
+           fetch="https://github.com/"
+           revision="15-qpr1" />
+
     <project name="dmXq-development/android_device_samsung_sm8550-common" path="device/samsung/sm8550-common" remote="github" revision="15-qpr1" />
     <project name="dmXq-development/android_device_samsung_dm1q" path="device/samsung/dm1q" remote="github" revision="15-qpr1" />
     <project name="dmXq-development/android_device_samsung_dm2q" path="device/samsung/dm2q" remote="github" revision="15-qpr1" />
