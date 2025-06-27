@@ -3,22 +3,22 @@
 
   <remote  name="github"
            fetch="https://github.com/"
-           revision="15-qpr1" />
+           revision="15-qpr2" />
 
-    <project name="dmXq-development/android_device_samsung_sm8550-common" path="device/samsung/sm8550-common" remote="github" revision="15-qpr1" />
-    <project name="dmXq-development/android_device_samsung_dm1q" path="device/samsung/dm1q" remote="github" revision="15-qpr1" />
-    <project name="dmXq-development/android_device_samsung_dm2q" path="device/samsung/dm2q" remote="github" revision="15-qpr1" />
-    <project name="dmXq-development/android_device_samsung_dm3q" path="device/samsung/dm3q" remote="github" revision="15-qpr1" />
+    <project name="guckesh/android_device_samsung_sm8550-common" path="device/samsung/sm8550-common" remote="github" revision="15-qpr2" />
+    <project name="guckesh/android_device_samsung_dm1q" path="device/samsung/dm1q" remote="github" revision="15-qpr2" />
+    <project name="guckesh/android_device_samsung_dm2q" path="device/samsung/dm2q" remote="github" revision="15-qpr2" />
+    <project name="guckesh/android_device_samsung_dm3q" path="device/samsung/dm3q" remote="github" revision="15-qpr2" />
 
-    <project name="dmXq-development/proprietary_vendor_samsung_sm8550-common" path="vendor/samsung/sm8550-common" remote="github" revision="15-qpr1" clone-depth="1" />
-    <project name="dmXq-development/proprietary_vendor_samsung_dm1q" path="vendor/samsung/dm1q" remote="github" revision="15-qpr1" clone-depth="1"/>
-    <project name="dmXq-development/proprietary_vendor_samsung_dm2q" path="vendor/samsung/dm2q" remote="github" revision="15-qpr1" clone-depth="1"/>
-    <project name="dmXq-development/proprietary_vendor_samsung_dm3q" path="vendor/samsung/dm3q" remote="github" revision="15-qpr1" clone-depth="1"/>
+    <project name="dmXq-development/proprietary_vendor_samsung_sm8550-common" path="vendor/samsung/sm8550-common" remote="github" revision="15-qpr2" clone-depth="1" />
+    <project name="dmXq-development/proprietary_vendor_samsung_dm1q" path="vendor/samsung/dm1q" remote="github" revision="15-qpr2" clone-depth="1"/>
+    <project name="dmXq-development/proprietary_vendor_samsung_dm2q" path="vendor/samsung/dm2q" remote="github" revision="15-qpr2" clone-depth="1"/>
+    <project name="dmXq-development/proprietary_vendor_samsung_dm3q" path="vendor/samsung/dm3q" remote="github" revision="15-qpr2" clone-depth="1"/>
 
-    <project name="dmXq-development/android_kernel_samsung_sm8550" path="kernel/samsung/sm8550" remote="github" revision="android15-stable" clone-depth="1"/>
+    <project name="dmXq-development/android_kernel_samsung_sm8550" path="kernel/samsung/sm8550" remote="github" revision="15-qpr2" clone-depth="1"/>
     <project name="dmXq-development/android_kernel_samsung_sm8550-devicetrees" path="kernel/samsung/sm8550-devicetrees" remote="github" revision="android15-stable" clone-depth="1" />
     <project name="dmXq-development/android_kernel_samsung_sm8550-modules" path="kernel/samsung/sm8550-modules" remote="github" revision="android15-stable" clone-depth="1" />
 
-    <project name="dmXq-development/android_hardware_samsung" path="hardware/samsung" remote="github" revision="15-qpr1"/>
+    <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-22.2"/>
 
 </manifest>
