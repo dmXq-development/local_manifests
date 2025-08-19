@@ -8,8 +8,8 @@
 
     <project name="dmXq-development/proprietary_vendor_samsung_sm8550-common" path="vendor/samsung/sm8550-common" remote="github" revision="lineage-22.2" clone-depth="1" />
     <project name="dmXq-development/proprietary_vendor_samsung_dm1q" path="vendor/samsung/dm1q" remote="github" revision="lineage-22.2" clone-depth="1"/>
-    <project name="chaptsand/proprietary_vendor_samsung_dm2q" path="vendor/samsung/dm2q" remote="github" revision="lineage-22.2" clone-depth="1"/>
-    <project name="chaptsand/proprietary_vendor_samsung_dm3q" path="vendor/samsung/dm3q" remote="github" revision="lineage-22.1" clone-depth="1"/>
+    <project name="dmXq-development/proprietary_vendor_samsung_dm2q" path="vendor/samsung/dm2q" remote="github" revision="lineage-22.2" clone-depth="1"/>
+    <project name="dmXq-development/proprietary_vendor_samsung_dm3q" path="vendor/samsung/dm3q" remote="github" revision="lineage-22.2" clone-depth="1"/>
 
     <project name="dmXq-development/android_kernel_samsung_sm8550" path="kernel/samsung/sm8550" remote="github" revision="android15-stable" clone-depth="1"/>
     <project name="dmXq-development/android_kernel_samsung_sm8550-devicetrees" path="kernel/samsung/sm8550-devicetrees" remote="github" revision="android15-stable" clone-depth="1" />
